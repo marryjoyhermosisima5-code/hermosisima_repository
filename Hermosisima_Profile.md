@@ -16,7 +16,7 @@
 <https://www.tiktok.com>
 
 ---
-![BARBIE](image-1.png](https://en.barbiepedia.com/img/barbie/800/X9449_0.jpg)
+![BARBIE](https://en.barbiepedia.com/img/barbie/800/X9449_0.jpg)
 ---
 **MOTIVATION QUOTE**:ribbon:
 "Because Barbie can be anything, women can be anything."
@@ -38,5 +38,6 @@
 2. TRAVELING
 3. GET A JOB
 4. LIFESTYLE & PERSONAL LIFE GOALS
+
 
 
